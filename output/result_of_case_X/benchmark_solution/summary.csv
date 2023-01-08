@@ -1,0 +1,14 @@
+total_packages,11473
+total_cost,23824.939999999995
+per_package_cost,2.0766094308376184
+infeasible_packages,0
+amzl_direct_percentage,6.1012812690665035
+amzl_indirect_percentage,39.44042534646562
+ddu_percentage,28.301228972369913
+3p_percentage,26.15706441209797
+hindsight_per_package_cost,1.9139370696417666
+hindsight_infeasible_packages,0
+hindsight_amzl_direct_percentage,6.1012812690665035
+hindsight_amzl_indirect_percentage,49.31578488625468
+hindsight_ddu_percentage,18.7483657282315
+hindsight_3p_percentage,25.834568116447308

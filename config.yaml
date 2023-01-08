@@ -1,0 +1,26 @@
+
+iter: 10
+z: 2
+cv: 0.1
+seed: 10
+decimal: 2
+
+# different algorithms 
+DPS: True # the QP algorithm
+benchmark_solution: True
+LP_solution: False
+no_cost: False
+DPS_QPno3P: False
+
+tie_break_rule: 'by_cpt_daylevel_then_routecat'
+intermediate_update_shadow_price: False
+adhoc_truck: False
+penalize_variable_cost: True
+
+INPUT_DIR: ''
+OUTPUT_DIR: ''
+shipment_file_name: 'shipments'
+commodity_file_name: 'commodities'
+resource_file_name: 'resources'
+
+LP_buffer_parameter: 1
